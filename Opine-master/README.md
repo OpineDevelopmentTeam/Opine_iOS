@@ -1,2 +1,0 @@
-# Opine
-Opine iOS development
