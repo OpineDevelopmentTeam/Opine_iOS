@@ -1,4 +1,0 @@
-1. IdeaViewController Two Sides Button (Transparent); Agree vs Disagree
-2. Change StatVC to make a new View Controller
-3. Make Red Blue Bar On StatVC
-4. Make MVC Model
