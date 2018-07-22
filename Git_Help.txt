@@ -1,0 +1,30 @@
+Remove all git files and delete repo from Local Finder 
+rm -rf .git 
+
+Initialize Repo
+git init 
+
+Add Remote
+git remote add origin https://github.com/OpineDevelopmentTeam/Opine_BackEnd.git
+
+Pull
+git pull origin master
+
+Add all
+git add .
+
+Commit 
+git commit -m “message”
+
+Push
+git push origin master
+
+
+Steps
+1) Git init
+2) Add Remote
+3) If remote is not the same as yours, pull
+4) Make changes or add folders in your local folder
+4) Add
+5) Commit
+6) Push
